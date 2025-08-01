@@ -1,4 +1,5 @@
-📊 Stock Financial Data Analysis & Visualization (Excel-Based)
+📊
+Stock Financial Data Analysis & Visualization (Excel-Based)
 This project involves analyzing and visualizing stock financial data using Microsoft Excel, with the help of built-in features like pivot tables, charts, and conditional formatting. 
 It provides insights into stock trends, historical performance, and financial patterns based on real-world data.
 
